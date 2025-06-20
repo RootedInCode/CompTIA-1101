@@ -4,6 +4,7 @@
 
 A **VLAN (Virtual Local Area Network)** is a way to **logically divide a physical network** into smaller, isolated sections.
 Even if devices are connected to the same switch, they can be **separated into different networks** using VLANs.
+(NAC = active access control, VLAN = passive traffic segmentation)
 
 ---
 
